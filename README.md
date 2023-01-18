@@ -14,7 +14,7 @@
 
 - :computer: Web programming in the frontend as well as in the backend is my area of expertise, but I also like to educate myself in other areas further.
 
-- :memo: In my free time, I like to solve problems, accept new challenges on e.g. Google Codelabs and think about complex systems.
+- :memo: In my free time, I like to solve problems, accept new challenges and think about the complexity of this world.
 
 - :scroll: Also, I absolutely love reading relevant studies (not only related to programming) to gather more useful knowledge in this big world!
 
