@@ -42,9 +42,3 @@
   <h4>What my GitHub Account says:</h4>
   <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomniekerken&langs_count=10&amp;layout=compact"       alt="Top Langs"></a></p>
 </div>
-
-<div align="center">
-  <h3>See my GitHub Stats</h2>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=tomniekerken&hide=issues,contribs&amp;theme=dark&amp;show_icons=true;" alt="Tom Niekerken's GitHub Stats"></p>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
