@@ -10,7 +10,7 @@
 
 - :globe_with_meridians: As a knowledgeable 21 year old young developer I currently live near Hamburg, a famous city in Germany
 
-- :man_student: I studied at the SAE Institute Germany from 2020 to 2022 and was successfully awarded my **Diploma** and **Bachelor of Science** in Webdesign & Development
+- :man_student: I am a recent **graduate** from the **SAE Institute Germany**, where I earned a **Diploma in Webdesign & Development** with a *grade point average of 1.5*. Additionally, I received a **Bachelor of Science in the same field**, graduating with *First Class honors*. My studies at SAE Institute spanned from 2020 to 2022.
 
 - :computer: Web programming in the frontend as well as in the backend is my area of expertise, but I also like to educate myself in other areas further.
 
