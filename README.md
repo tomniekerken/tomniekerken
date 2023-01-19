@@ -8,7 +8,7 @@
 
 ### Who I am
 
-- :de: As a knowledgeable 21 year old young talent I currently live near Hamburg, a famous city in Germany
+- :globe_with_meridians: As a knowledgeable 21 year old young developer I currently live near Hamburg, a famous city in Germany
 
 - :man_student: I studied at the SAE Institute Germany from 2020 to 2022 and was successfully awarded my **Diploma** and **Bachelor of Science** in Webdesign & Development
 
