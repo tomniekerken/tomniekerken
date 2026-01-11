@@ -8,7 +8,7 @@
 
 ### Who I am
 
-- :globe_with_meridians: As a knowledgeable 23 year old developer I currently live near Hamburg, a famous city in Germany
+- :globe_with_meridians: As a knowledgeable 24 year old developer I currently live near Hamburg, a famous city in Germany
 
 - :man_student: I am a recent **graduate** from the **SAE Institute Germany**, where I earned a **Diploma in Webdesign & Development** with a *grade point average of 1.5*. Additionally, I received a **Bachelor of Science in the same field**, graduating with *First Class Honours*. My studies at SAE Institute spanned from 2020 to 2022.
 
